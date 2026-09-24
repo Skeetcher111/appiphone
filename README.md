@@ -18,7 +18,7 @@
 
 ## Ссылки
 
-Сайт и цены: https://mcpteam.ru/appiphone/
+Сайт и цены: https://mcpiphone.ru/
 
 Вопросы и установка: Telegram-бот [@mcpiphone_bot](https://t.me/mcpiphone_bot)
 
