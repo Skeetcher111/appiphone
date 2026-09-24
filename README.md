@@ -20,7 +20,7 @@
 
 Сайт и цены: https://mcpteam.ru/appiphone/
 
-Вопросы и установка: Telegram-бот [@appiphone_support_bot](https://t.me/appiphone_support_bot)
+Вопросы и установка: Telegram-бот [@mcpiphone_bot](https://t.me/mcpiphone_bot)
 
 ## О репозитории
 
